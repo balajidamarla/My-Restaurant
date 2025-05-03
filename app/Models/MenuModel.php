@@ -12,6 +12,6 @@ class MenuModel extends Model
     // public function filterMenuItems($searchTerm)
     // {
     //     return $this->like('name', $searchTerm)->findAll();
-    // sdkfjlsdjfsdjfl
+    
     // }
 }
